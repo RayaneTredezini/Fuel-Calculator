@@ -20,3 +20,6 @@ Project
 This project was created as part of my iOS development portfolio to practise SwiftUI, user input handling, calculations, and responsive UI design.
 
 ##Screenshots
+![Fuel Calculator - Screenshot01](screenshot01.png)
+![Fuel Calculator - Screenshot02](screenshot02.png)
+![Fuel Calculator - Screenshot03](screenshot03.png)
