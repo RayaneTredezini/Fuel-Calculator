@@ -18,3 +18,5 @@ Technologies
 Project
 
 This project was created as part of my iOS development portfolio to practise SwiftUI, user input handling, calculations, and responsive UI design.
+
+##Screenshots
